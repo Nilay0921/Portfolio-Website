@@ -4,6 +4,7 @@ import About from "./components/about"
 import Exp from "./components/exp"
 import Projects from "./components/projects"
 import Contact from "./components/contact"
+import resume from "./Resume.pdf"
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
   	    <a href="#projects">Projects</a>
   	    <a href="#expirence">Experience</a>
   	    <a href="#contact">Contact</a>
-  	    <a href="Resume.pdf">Resume</a>	
+  	    <a href={ resume }>Resume</a>	
       </div>
       <div className="name">
         <h1>Nilay Kapadia</h1>
