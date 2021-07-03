@@ -11,7 +11,7 @@
   color: white;
   text-align: center;
   padding-top: 250px;
-  font-size: 5.5vw;
+  font-size: 7vw;
   font: Arial;
   width: 100vw;
   height: 700px;
@@ -452,5 +452,20 @@
 
 html {
   scroll-behavior: smooth;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: white;
 }
 
