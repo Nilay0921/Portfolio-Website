@@ -14,7 +14,7 @@ function exp() {
                 </div>
                 <div className="expirence1-p">
                     <ul>
-                        <li>Worked closely with large-scale microservices architecture to develop new invoice receivables features using Java and Spring impacting 200+ businesses and bank</li>
+                        <li>Worked closely with large-scale microservices architecture to develop new invoice receivables features using Java and Spring impacting 200+ businesses and banks</li>
                         <li>Improved storage of account information by creating monthly partitions of the SQL table enhancing query processing by 30%</li>
                         <li>Used Kotlin, J-Unit, and Spring to create rigorous unit tests for production features reducing bugs by 40%</li>
                         <li>Added new transaction details to the UI using React Js allowing smoother access to transaction information</li>
