@@ -10,11 +10,14 @@ function exp() {
             <div className="expirence1" onclick="window.location=http://google.com">
                 <div className="expirence1-title">
                     <a href="https://www.fispan.com/"><h1>FISPAN</h1></a>
-                    <h2>Software Engineering Intern</h2>
+                    <h2>Software Developer Intern</h2>
                 </div>
                 <div className="expirence1-p">
                     <ul>
-                        <li>Joining FISPAN as a software engineer on the banking team</li>
+                        <li>Worked closely with large-scale microservices architecture to develop new invoice receivables features using Java and Spring impacting 200+ businesses and bank</li>
+                        <li>Improved storage of account information by creating monthly partitions of the SQL table enhancing query processing by 30%</li>
+                        <li>Used Kotlin, J-Unit, and Spring to create rigorous unit tests for production features reducing bugs by 40%</li>
+                        <li>Added new transaction details to the UI using React Js allowing smoother access to transaction information</li>
 			        </ul>
                 </div>
             </div>
