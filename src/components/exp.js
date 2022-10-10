@@ -25,7 +25,7 @@ function exp() {
             <div className="expirence2" onclick="window.location=http://google.com">
                 <div className="expirence2-title">
                 <a href="https://www.ford.com/"><h1>Ford Motor Company of Canada</h1></a>
-                    <h2>Software Engineering Intern</h2>
+                    <h2>Software Developer Intern</h2>
                 </div>
                 <div className="expirence2-p">
                     <ul>
