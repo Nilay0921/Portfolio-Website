@@ -9,10 +9,24 @@ function exp() {
             </div>
             <div className="expirence1" onclick="window.location=http://google.com">
                 <div className="expirence1-title">
-                <a href="https://www.meta.com/"><h1>Meta</h1></a>
-                    <h2>Software Engineering Intern</h2>
+                <a href="https://www.drw.com/"><h1>DRW</h1></a>
+                    <h2>Software Engineer Intern</h2>
                 </div>
                 <div className="expirence1-p">
+                    <ul>
+                        <li>Engineered a critical service for monitoring low-latency networks using Go and NATS, elevating data monitoring accuracy by 30%</li>
+				        <li>Leveraged Telegraf to capture critical low-latency network metrics in InfluxDB, enabling significant data visualization through Grafana Dashboards</li>
+				        <li>Deployed a 3-node NATS cluster using Kubernetes, achieving 99.9% uptime, and ensuring uninterrupted messaging queue support for essential tools</li>
+			        </ul>
+                </div>
+            </div>
+
+            <div className="expirence2" onclick="window.location=http://google.com">
+                <div className="expirence2-title">
+                <a href="https://www.meta.com/"><h1>Meta</h1></a>
+                    <h2>Software Engineer Intern</h2>
+                </div>
+                <div className="expirence2-p">
                     <ul>
                         <li>Developed and improved infrastructure to solve and remediate privacy problems using Hack/PHP</li>
 				        <li>Improved code file enumerations by providing instant updates for code file assets eliminating delays of up to 24 hours</li>
@@ -22,12 +36,12 @@ function exp() {
                 </div>
             </div>
 
-            <div className="expirence2" onclick="window.location=http://google.com">
-                <div className="expirence2-title">
+            <div className="expirence3" onclick="window.location=http://google.com">
+                <div className="expirence3-title">
                 <a href="https://www.ford.com/"><h1>Ford Motor Company of Canada</h1></a>
                     <h2>Software Developer Intern</h2>
                 </div>
-                <div className="expirence2-p">
+                <div className="expirence3-p">
                     <ul>
                         <li>Developed multiple Android app pages using Android UI, XML, and Kotlin for Fords in car infotainment system</li>
 				        <li>Migrated XML components to the new JetPack Compose framework reducing errors and increasing testing speed</li>
@@ -36,12 +50,12 @@ function exp() {
                 </div>
             </div>
 
-            <div className="expirence3" onclick="window.location=http://google.com">
-                <div className="expirence3-title">
+            <div className="expirence4" onclick="window.location=http://google.com">
+                <div className="expirence4-title">
                     <a href="https://www.fispan.com/"><h1>FISPAN</h1></a>
-                    <h2>Software Developer Intern</h2>
+                    <h2>Software Engineer Intern</h2>
                 </div>
-                <div className="expirence3-p">
+                <div className="expirence4-p">
                     <ul>
                         <li>Worked closely with large-scale microservices architecture to develop new invoice receivables features using Java and Spring impacting 200+ businesses and banks</li>
                         <li>Improved storage of account information by creating monthly partitions of the SQL table enhancing query processing by 30%</li>
